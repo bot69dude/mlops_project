@@ -30,3 +30,4 @@ after training the model run this command locally before running mlflow
   mlflow ui
 ```
 after running the command you will see this page in the mlflow
+![Screenshot (1)](https://github.com/bot69dude/mlops_project/assets/127757589/e0928732-240b-4aa4-9251-2732bd963547)
